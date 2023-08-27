@@ -4,6 +4,8 @@
 
 `JavaSelenideSnippets.java` Команды Selenide
 
+`javaSelenideSnippets.md` Команды Selenide
+
 `LocatorExamples.java` Примеры локаторов
 
 `AnnotationExamples.java` Примеры аннотаций
